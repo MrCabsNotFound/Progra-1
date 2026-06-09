@@ -1,0 +1,5 @@
+nombre = input("Cuál es tu nombre?")
+edad = int(input("Escribe tu edad"))
+anio_nacimiento = (2026 - edad)
+print("Hola", nombre, "naciste en el año", anio_nacimiento)
+print("Eres mayor de edad" if edad >= 18 else "Eres menor de edad")
