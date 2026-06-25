@@ -1,7 +1,7 @@
 saldo = 1000  # arrancamos con Q1000, no te emociones tanto
 seguir = True
 
-print("Bienvenido al cajero. Tratá de no quedarte sin plata.")
+print("Bienvenido al cajero. Tratá de no quedarte sin plata manito.")
 
 while seguir:
     print("\nCajero Automático")
